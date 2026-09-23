@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Graduation-June_2026-blue?style=for-the-badge" alt="Graduation" />
   <img src="https://img.shields.io/badge/GCP-Certified_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
+
 </div>
 
 ---
@@ -96,8 +97,8 @@ Details: Automated multi-layout invoice parsing with 98%+ schema validation accu
 ### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceKeshri966&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prince's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKeshri966&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrinceKeshri966&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prince's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrinceKeshri966&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">

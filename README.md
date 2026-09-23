@@ -6,12 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Backend+%26+Cloud+Systems;Agentic+AI+%26+LangGraph+Architect;Google+Cloud+Certified+Associate+Cloud+Engineer;Building+High-Throughput+FastAPI+Microservices;Scalable+Distributed+Systems+%26+Edge+Computing)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/princekeshri1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://prince-keshri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:pr.prince.3068@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/princekeshri"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <img src="https://img.shields.io/badge/Status-🟢_Actively_Interviewing-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Graduation-June_2026-blue?style=for-the-badge" alt="Graduation" />
+  <img src="https://img.shields.io/badge/GCP-Certified_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
-
 </div>
 
 ---
